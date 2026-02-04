@@ -1,13 +1,13 @@
 # Projetos de Análise de Dados
 
-Bem-vindo ao meu portfólio de análise de dados. Aqui você encontra projetos que demonstram limpeza de dados, análise exploratória, visualização e integração com APIs.
+Este repositório reúne projetos que eu desenvolvo durante meus estudos, para praticar análise de dados, visualização e construção de soluções com dados.
 
 ## Projetos
 
 ### 1) Netflix EDA
 - Objetivo: explorar o catálogo da Netflix e gerar insights claros
 - Tecnologias: Python (pandas, matplotlib, seaborn)
-- Repositório: `https://github.com/luisftavano/netflix-eda`
+- Repositório: [github.com/luisftavano/netflix-eda](https://github.com/luisftavano/netflix-eda)
 
 ### 2) Financeiro Corporativo (Power BI)
 - Objetivo: dashboard executivo com KPIs financeiros
@@ -20,6 +20,8 @@ Bem-vindo ao meu portfólio de análise de dados. Aqui você encontra projetos q
 - Status: em construção
 
 ## Sobre mim
-- Nome: Luis Tavano
-- Foco: análise de dados e BI
-- Contato: (adicione seu email ou LinkedIn)
+- Estudante focado em análise de dados e BI
+- Buscando projetos para aplicar conceitos na prática
+- **Nome:** Luís Felipe Martins Tavano
+- **LinkedIn:** [linkedin.com/in/luís-tavano-5a7656214](https://www.linkedin.com/in/lu%C3%ADs-tavano-5a7656214)
+- **Email:** luistavano@icloud.com
