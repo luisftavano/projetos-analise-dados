@@ -25,8 +25,9 @@ Este repositório reúne projetos que eu desenvolvo durante meus estudos, para p
 - Status: em construção
 
 ## Sobre mim
-- Estudante focado em análise de dados e BI
+- Estudante focado em análise de dados
 - Buscando projetos para aplicar conceitos na prática
+- Interesse em oportunidade na área de dados
 - **Nome:** Luís Felipe Martins Tavano
 - **LinkedIn:** [linkedin.com/in/luís-tavano-5a7656214](https://www.linkedin.com/in/lu%C3%ADs-tavano-5a7656214)
 - **Email:** luistavano@icloud.com
