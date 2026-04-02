@@ -14,7 +14,7 @@ Este repositório reúne projetos que eu desenvolvo durante meus estudos, para p
 - Tecnologias: Python (requests, pandas, matplotlib, smtplib), Open-Meteo API
 - Repositório: [github.com/luisftavano/Weather-Data-Analysis-Pipeline](https://github.com/luisftavano/Weather-Data-Analysis-Pipeline)
 
-### 3)Spotify Track EDA
+### 3) Spotify Track EDA
 - Objetivo: Realizar uma análise exploratória complote do Spotify Tracks Dataset, identificando padroes de popularidade, correlacoes entre caracteristicas musicais e diferencas entre gêneros.
 - Tecnologias: Python(pandas, seaborn, matplotlib, scipy, jupyter)
 - Repositório:https://github.com/luisftavano/spotify-eda
